@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Scanner;
-
+/* Mikey Cash, CSCI-1660, 2/6/25 */
 public class Main {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
